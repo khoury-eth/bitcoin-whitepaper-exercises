@@ -1,4 +1,4 @@
-# Bitcoin Whitepaper Exercises - Hashing
+# Bitcoin Whitepaper Exercises - Hashing - This is Tim's version
 
 In this exercise, you will practice writing code to create blocks, compute block hashes, and verify blocks based on those hashes.
 
